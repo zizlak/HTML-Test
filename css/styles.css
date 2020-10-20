@@ -1,0 +1,27 @@
+
+
+
+body {
+  background-color: #e8e8e8;
+}
+
+hr {
+  height: 0px;
+  border-style: dotted;
+  border-top: none;
+  border-width: thick;
+}
+
+
+h1 {
+  color: #835858;
+}
+
+h2 {
+  color: #835858;
+}
+
+
+.circule {
+  border-radius: 100%;
+}
